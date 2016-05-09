@@ -1,0 +1,13 @@
+%% this is a repository of code that goes from Harry's tracking experiment
+% output through an analysis to figures for the manuscript or talks that
+% people give on the subject.  The project contains the following:
+
+% /Data/RawTracking/ -- contains raw tracking data from Harry
+% /Data/ProcessedTracking/ -- contains tracking data processed by the
+% 'ComputeStatisticsAllDataSets_BergStyle.m'
+% /Dependencies/ -- All functions that need to be in the path for scripts
+% to run.
+% /Output/ -- this is where Figures are written to file.  
+% git repository is here: https://github.com/SeppeKuehn/ChemotaxisEvolutionDataAnalysis.git
+%
+%%
